@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\bin\Debug\Payroll_M_System.exe.config
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\bin\Debug\Payroll_M_System.exe
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\bin\Debug\Payroll_M_System.pdb
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.Form1.resources
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.insert.resources
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.Properties.Resources.resources
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.exe
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.pdb
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.display.resources
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.login.resources
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.update.resources
+C:\Users\User\source\repos\Payroll_M_System\Payroll_M_System\obj\Debug\Payroll_M_System.delete.resources
